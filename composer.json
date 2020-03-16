@@ -2,7 +2,7 @@
     "name": "gas/serverdate_eng_to_nepali",
     "description": "A library to convert english server date to nepali date",
     "type": "library",
-    "license": "GAS",
+    "license": "MIT",
     "authors": [
         {
             "name": "er.beeps",
