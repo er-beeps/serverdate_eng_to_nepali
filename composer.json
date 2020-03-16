@@ -1,0 +1,14 @@
+{
+    "name": "gas/serverdate_eng_to_nepali",
+    "description": "A library to convert english server date to nepali date",
+    "type": "library",
+    "license": "GAS",
+    "authors": [
+        {
+            "name": "er.beeps",
+            "email": "bipinkhatiwada10@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
